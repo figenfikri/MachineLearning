@@ -1,1 +1,1 @@
-# MachineLearning
+Machine learning examples in R.
